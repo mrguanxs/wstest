@@ -9,5 +9,8 @@
         <module name="wstest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wstest" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
